@@ -3,7 +3,7 @@
 [![Gitter](https://badges.gitter.im/M5Stack-SD-Updater/community.svg)](https://gitter.im/M5Stack-SD-Updater/community)
 [![arduino-library-badge](https://www.ardu-badge.com/badge/M5Stack-SD-Updater.svg?)](https://www.ardu-badge.com/M5Stack-SD-Updater)
 
-# M5Stack-SD-Updater
+# M5Stack-SD-Updater Library fork for VIDI X Microcomputer
 
 <br />
 
